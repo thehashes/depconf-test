@@ -1,6 +1,6 @@
 // depconf-npm-test/package.json
 {
-  "name": "depconf-npm-test",
+  "name": "hasht-hax0r",
   "version": "1.0.0",
   "dependencies": {
     "lodash": "0.0.0",         // real package, bogus version
