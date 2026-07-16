@@ -1,14 +1,6 @@
 // depconf-npm-test/package.json
 {
-  "name": "hasht-hax0r",
-  "version": "1.0.0",
-  "dependencies": {
-    "lodash": "0.0.0",         // real package, bogus version
-    "this-pkg-does-not-exist": "1.2.3"
-  }
-}
-{
-  "name": "xxx-hax0r",
+  "name": "111zzzzz",
   "version": "1.0.0",
   "dependencies": {
     "lodash": "0.0.0",         // real package, bogus version
